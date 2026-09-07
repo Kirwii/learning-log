@@ -8,14 +8,8 @@
 
 ---
 
-## Why this exists
+# Why this exists
 
 1. **Proof of work.** Clients and collaborators can see how I think, not just what I've finished.
 2. **Accountability.** Public logs are harder to skip than private notes.
 3. **Compounding reference.** Past entries become searchable answers to "wait, how did I solve this before?"
-
-This log runs alongside my AI tutor suite (Python/AI Engineering, AI Agency, Philippine Law, Fitness) — it's where the actual practice gets recorded.
-
----
-
-## 🗂️ Structure
